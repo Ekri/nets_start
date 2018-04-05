@@ -10,3 +10,5 @@ array = np.array(list(zip(iris.data, iris.target)))[0:10]
 print(array)
 # print(iris.DESCR)
 print(iris.target_names)
+
+

@@ -34,4 +34,4 @@ axarr_flat = axarr.flat
 # f.tight_layout()
 # pl.show()
 
-# TODO learn about visualisation in matplotlib and python is not installed as a framework error
+# TODO learn about visualisation in matplotlib and python is not installed as a framework error, learn more about kmeans
